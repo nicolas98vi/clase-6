@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1600462007 source:c:\users\pc\desktop\tareas\cadenasdelaclase6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1600461909 source:c:\users\pc\desktop\tareas\cadenasdelaclase6\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libreria.h"
+
+1600457735 c:\users\pc\desktop\tareas\cadenasdelaclase6\libreria.h
+
